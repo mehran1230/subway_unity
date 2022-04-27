@@ -10140,7 +10140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d60df4470def04745a798a488e6a16e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forward_speed: 5
+  forward_speed: 0.7
   direction_speed: 10
 --- !u!1001 &1723225515
 PrefabInstance:
@@ -11955,6 +11955,14 @@ PrefabInstance:
     - target: {fileID: 1404090065793851164, guid: c00f8e2c74296ad41badae1ab3fb8f01, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1404090065803210926, guid: c00f8e2c74296ad41badae1ab3fb8f01, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 47012fbb367e7034385f858de51903dd, type: 2}
+    - target: {fileID: 1404090065803210926, guid: c00f8e2c74296ad41badae1ab3fb8f01, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c00f8e2c74296ad41badae1ab3fb8f01, type: 3}
