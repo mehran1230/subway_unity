@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 47044179595448479}
   - component: {fileID: 9008464144675436528}
   - component: {fileID: 8641015516438157564}
+  - component: {fileID: 8842304711537976483}
   m_Layer: 0
   m_Name: chan2
   m_TagString: Untagged
@@ -82,3 +83,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8842304711537976483
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2601229249490643260}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.015507183, y: 0.02238361, z: 0.029147005}
+  m_Center: {x: 0, y: 0.011473697, z: -0}
