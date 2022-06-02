@@ -84,6 +84,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tau3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2aa0f56579d2cbb4c85695b8368431d0, type: 3}
+      propertyPath: m_TagString
+      value: obstacle
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2aa0f56579d2cbb4c85695b8368431d0, type: 3}
 --- !u!1 &7874529895218832674 stripped

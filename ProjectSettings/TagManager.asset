@@ -6,6 +6,8 @@ TagManager:
   tags:
   - gold
   - obstacle
+  - endPlane
+  - Character
   layers:
   - Default
   - TransparentFX

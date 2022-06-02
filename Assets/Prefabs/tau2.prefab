@@ -26,7 +26,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9317fdb770b24f942b7b3487ad14c5be, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.07
+      value: 2.18
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9317fdb770b24f942b7b3487ad14c5be, type: 3}
       propertyPath: m_LocalPosition.z
@@ -83,6 +83,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9317fdb770b24f942b7b3487ad14c5be, type: 3}
       propertyPath: m_Name
       value: tau2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9317fdb770b24f942b7b3487ad14c5be, type: 3}
+      propertyPath: m_TagString
+      value: obstacle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9317fdb770b24f942b7b3487ad14c5be, type: 3}
