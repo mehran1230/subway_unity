@@ -8,6 +8,8 @@ TagManager:
   - obstacle
   - endPlane
   - Character
+  - mag
+  - apple
   layers:
   - Default
   - TransparentFX
